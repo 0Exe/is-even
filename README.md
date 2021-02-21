@@ -4,7 +4,7 @@ python module to check if an integer is even
 
 ## usage
 
-```
+```py
 from is_even import even, async_even
 
 even(int)
