@@ -4,14 +4,13 @@ python module to check if an integer is even
 
 ## installation
 
-#
 windows
-```py
+```
 pip install https://github.com/0Exe/is-even
 ```
 #
 linux / macOS
-```py
+```
 pip3 install https://github.com/0Exe/is-even
 ```
 ## usage
