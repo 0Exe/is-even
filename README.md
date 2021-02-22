@@ -43,3 +43,5 @@ is_even_odd.async_odd(int)
 ```
 
 Functions return `True` if it is even / odd, and `False` if not even / odd
+
+- [ ] evenodd(num, "odd"/"even")
