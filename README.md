@@ -11,9 +11,13 @@ install file into project directory
 ```py
 from is_even_odd import even, async_even, odd, async_odd
 
+# even
+
 even(int)
 
 async_even(int)
+
+# odd
 
 odd(int)
 
