@@ -1,23 +1,11 @@
-def even(num:int):
-    if num % 2 != 0:
-        return(False)
-    else:
-        return(True)
+def even(num: int) -> bool:
+    return num % 2 == 0
 
-async def async_even(num:int):
-    if num % 2 != 0:
-        return(False)
-    else:
-        return(True)
+async def async_even(num: int) -> bool:
+    return num % 2 == 0
     
-def odd(num:int):
-    if num % 2 == 0:
-        return(False)
-    else:
-        return(True)
+def odd(num: int) -> bool:
+    return num % 2 != 0
 
-async def async_odd(num:int):
-    if num % 2 == 0:
-        return(False)
-    else:
-        return(True)
+async def async_odd(num: int) -> bool:
+    return num % 2 != 0
